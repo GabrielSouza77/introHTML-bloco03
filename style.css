@@ -1,0 +1,48 @@
+body {
+  background-color: #e41b17;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #fff;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  background: #222;
+  max-width: 600px;
+  margin: 40px auto;
+  border-radius: 12px;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.2);
+  padding: 32px;
+}
+
+.logo-arsenal {
+  display: block;
+  margin: 20px auto 30px auto;
+  width: 120px;
+  height: auto;
+}
+
+h1 {
+  text-align: center;
+  color: #ffd700;
+  margin-top: 0;
+}
+
+h2 {
+  color: #fff;
+  border-bottom: 1px solid #ffd700;
+  padding-bottom: 4px;
+  margin-top: 24px;
+}
+
+ul {
+  background: #b22222;
+  padding: 16px;
+  border-radius: 8px;
+  list-style: square inside;
+}
+
+p {
+  font-size: 18px;
+  line-height: 1.6;
+}
